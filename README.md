@@ -1,7 +1,7 @@
 # my_project
 Hier ist eine Idee für eine Anwendung, die maschinelles Lernen (Classification) verwendet und Echtzeitdaten zur Überwachung des Raumklimas (Temperatur, Luftfeuchtigkeit, Licht) verwendet:
 
-Projektidee: Raumklimaüberwachung und -optimierung mit maschinellem Lernen
+<h>Projektidee: Raumklimaüberwachung und -optimierung mit maschinellem Lernen</h>
 
 Beschreibung:
 
@@ -9,7 +9,7 @@ Entwickeln Sie eine Python-Anwendung, die in Echtzeit Daten zum Raumklima (Tempe
 
 Schritte und Komponenten:
 
-Datenbeschaffung und -erfassung:
+<p>Datenbeschaffung und -erfassung:</p>
 
 Verwenden Sie Sensoren oder IoT-Geräte, um kontinuierlich Daten zur Temperatur, Luftfeuchtigkeit und Lichtintensität in Ihrem Zimmer zu erfassen.
 Speichern Sie diese Echtzeitdaten in einer Datenbank oder einer CSV-Datei.
